@@ -1,2 +1,28 @@
 
 /* Your CSS Code here. */
+.r1c1{
+	background-color:springgreen;
+	height:150px;
+	
+}
+.r1c2{
+	background-color:palevioletred;
+	height:150px;
+	
+}
+.r2c1{
+	background-color:hotpink;
+	height:150px;
+}
+.r2c2{
+	background-color:skyblue;
+	height:150px;
+}
+.r3c1{
+	background-color:violet;
+	height:150px;
+}
+.r3c2{
+	background-color:lightgreen;
+	height:150px;
+}
